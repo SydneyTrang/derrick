@@ -10,8 +10,8 @@ Nowadays, as the world becomes more reliant on technology programming has become
 
 My programming endeavours began with group projects in high school. I learned a great deal about the software development life cycle and the teamwork required to produce a final product. I gained experience as a project manager, systems analyst, programmer, tester, and technical writer. For one of our projects, our team recreated the game Battleship in Java using the NetBeans IDE. This involved managing data in a two-dimensional array: storing ship coordinates, querying for ship positions, and updating misses and hits.
 Two big learning (things) from this project:
-* **Data Matters** - Structuring, organizing, and managing data is crucial to the success of any project.
-* **Teamwork really does make the dreamwork** - Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+* **Data Matters** - Structuring, organizing, and managing data is crucial to the success of any project. 
+* **Teamwork really does make the dreamwork** - 
 
 ---
 
