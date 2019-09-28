@@ -12,7 +12,6 @@ Every piece has a story! See the history of my doodles and designs here.
 <img src="{{site.baseurl}}/assets/img/1.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/6.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/4.jpg" alt="">
-<img src="{{site.baseurl}}/assets/img/3.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/KCI NY SHIRT.png" alt="">
 <img src="{{site.baseurl}}/assets/img/5.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/7.jpg" alt="">
