@@ -1,0 +1,12 @@
+layout: pages
+title: Why Programming?
+
+---
+I learned a great deal about the software development life cycle and the teamwork that makes everything
+happen through assigned group projects. I gained experience in the roles of project manager,
+systems analyst, programmer, tester, and technical writer. For one of the projects, our team
+attempted to recreate Battleship. As a programmer, I successfully implemented logic for a user’s
+and AI’s turn events. This involved passing ship coordinates to a function, using a conditional
+statement to check positions within a two-dimensional array. The problem solving abilities and
+passion I possess allow me to create and explore various technologies with a high degree of
+effectiveness.
