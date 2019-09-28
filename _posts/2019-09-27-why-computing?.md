@@ -20,3 +20,5 @@ problem and fulfillment as I express myself creatively. Usually, problem solving
 academic subjects like chemistry or physics, and creativity is involved with artistic subjects like music
 and theatre. These two qualities are often separated in the workplace and while I have a passion for
 both of these worlds, this introduces me to a lot of conflict in deciding my future career. However, programming allows me to dabble in the best of both worlds. It gives me the opportunity to create programs while using logic to create structure. Therefore, computer programming would be a fulfilling and interesting career for myself.
+
+--
