@@ -9,7 +9,7 @@ Every piece has a story! See the history and progress of my doodles here.
 
 ---
 
-'/assets/img/KCI NY SHIRT.jpg'
+
 
 ## Quickly deploy strategic
 
