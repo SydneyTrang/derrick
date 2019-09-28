@@ -8,24 +8,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Sydney Trang
-  image: '/assets/img/01.jpg'
+  image: '/assets/img/sydneyoperahouse.jpg'
   job: Pursing a Bachelors of Actuarial Science
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  bio: Passionate designer
   email: forexample@website.com
-
-
-# Contact links
-contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
-
-
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
