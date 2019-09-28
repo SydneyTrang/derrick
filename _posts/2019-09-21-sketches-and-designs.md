@@ -7,7 +7,7 @@ tags:   [art, design]
 Every piece has a story! See the history and progress of my doodles here.
 
 ---
-{::nomarkdown}
+<html>
 
 layout: default
 images:
@@ -36,4 +36,4 @@ images:
   {% endfor %}
 </ul>
 
-{:/}
+{/html>
