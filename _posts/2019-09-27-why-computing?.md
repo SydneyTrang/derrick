@@ -18,5 +18,3 @@ Two big lessons learned from this project:
 ---
 
 Programming is a fulfilling discipline because it is essentially problem solving and creativity. I find that these qualities are the most satisfying qualities. Nothing beats the feeling of solving a challenging problem or seeing the results of your hard work!
-
----
