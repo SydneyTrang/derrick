@@ -1,7 +1,7 @@
 --
-layout: pages
+layout: posts
 title: Why Programming?
-image:  '/assets/img/2.jpg'
+image: '/assets/img/2.jpg'
 ---
 
 I learned a great deal about the software development life cycle and the teamwork that makes everything
