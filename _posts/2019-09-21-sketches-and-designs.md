@@ -6,6 +6,5 @@ image:  '/assets/img/2.jpg'
 Every piece has a story! See the history and progress of my doodles here.
 
 ---
-<html>
-image1: '/assets/img/1.jpg'
-</html>
+
+![Drawing1](/assets/img/1.jpg)
