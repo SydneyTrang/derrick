@@ -9,3 +9,11 @@ Every piece has a story! See the history and progress of my doodles here.
 
 
 <img src="{{site.baseurl}}/assets/img/1.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/3.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/4.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/KCI NY SHIRT.png" alt="">
+<img src="{{site.baseurl}}/assets/img/5.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/6.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/7.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/8.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/9.jpg" alt="">
