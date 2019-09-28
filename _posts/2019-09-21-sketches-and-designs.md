@@ -3,7 +3,7 @@ layout: post
 title:  Sketches and Designs
 image:  '/assets/img/2.jpg'
 ---
-Every piece has a story! See the history and progress of my doodles here.
+Every piece has a story! See the history of my doodles and designs here.
 
 ---
 
