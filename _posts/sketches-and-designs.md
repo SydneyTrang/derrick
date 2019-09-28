@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Sketches and Designs
-date:   2019-07-24 14:50:35 +0300
 image:  '/assets/img/07.jpg'
 tags:   [art, design]
 ---
