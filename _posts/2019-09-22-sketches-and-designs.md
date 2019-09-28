@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sketches and Designs
-date:   2019-09-22
+date:   2019-09-22 14:50:35 +0300
 image:  '/assets/img/2.jpg'
 ---
 Every piece has a story! See the history of my doodles and designs here.
