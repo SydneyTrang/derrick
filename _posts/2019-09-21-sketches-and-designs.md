@@ -8,4 +8,4 @@ Every piece has a story! See the history and progress of my doodles here.
 ---
 
 
-<img src="/assets/img/1.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/1.jpg" alt="">
