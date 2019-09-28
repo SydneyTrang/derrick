@@ -15,6 +15,7 @@ Two big lessons learned from this project:
 
 * **Teamwork really makes the dreamwork** - You hear this saying time and time again. But not until you actually work in a team, try to manage conflict, and need to meet a deadline, will you truly understand this saying.
 
+---
 
 Programming is a fulfilling discipline because it is essentially problem solving and creativity. I find that these qualities are the most satisfying qualities. Nothing beats the feeling of solving a challenging problem or seeing the results of your hard work!
 
