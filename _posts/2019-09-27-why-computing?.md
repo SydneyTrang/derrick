@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Why Computing?
 image: '/assets/img/turing.jpg'
 ---
