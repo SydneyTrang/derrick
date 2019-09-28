@@ -36,4 +36,4 @@ images:
   {% endfor %}
 </ul>
 
-{/html>
+</html>
