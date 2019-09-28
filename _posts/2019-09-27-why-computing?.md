@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Why Programming?
+title: Why Computing?
 image: '/assets/img/2.jpg'
 ---
 
