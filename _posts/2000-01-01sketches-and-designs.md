@@ -6,8 +6,8 @@ tags:   [art, design]
 ---
 Every piece has a story! See the history and progress of my doodles here.
 
-  
 ---
+<html>
 layout: default
 images:
   - image_path: /assets/img/1.jpg
@@ -35,4 +35,4 @@ images:
   {% endfor %}
 </ul>
 
----
+</html>
