@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Computing?
-date: 2019-07-27
+date: 2019-09-27
 image: '/assets/img/turing.jpg'
 ---
 Because why not?
