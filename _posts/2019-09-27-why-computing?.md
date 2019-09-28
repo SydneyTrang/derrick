@@ -1,4 +1,4 @@
---
+---
 layout: posts
 title: Why Programming?
 image: '/assets/img/2.jpg'
