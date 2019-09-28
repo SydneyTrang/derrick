@@ -13,9 +13,7 @@ statement to check positions within a two-dimensional array. The problem solving
 passion I possess allow me to create and explore various technologies with a high degree of
 effectiveness.
 
-Programming is a fulfilling discipline becasse it it is composed of
-two qualities that I thoroughly enjoy. Essentially, programming brings together problem solving and
-creativity. These qualities provide myself with the feeling of satisfaction as I love solving a good
+Programming is a fulfilling discipline becasse it is essentially problem solving and creativity. I find thatThese qualities provide myself with the feeling of satisfaction as I love solving a good
 problem and fulfillment as I express myself creatively. Usually, problem solving is involved with
 academic subjects like chemistry or physics, and creativity is involved with artistic subjects like music
 and theatre. These two qualities are often separated in the workplace and while I have a passion for
