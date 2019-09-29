@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Computing?
-date: 2019-09-27  20:34:00 +0300
+date: 2019-09-28  20:34:00 +0300
 image: '/assets/img/turing.jpg'
 ---
 Nowadays, programming has become a very necessary skill as the world has become more reliant on technology
