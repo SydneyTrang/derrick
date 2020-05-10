@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Board/Party I've Played and Want to Try
+title:  Board/Party Games I've Played and Want to Try
 date:   2020-04-26 14:50:35 +0300
-image:  '/assets/img/2.jpg'
+image:
 ---
 What I've Played
 
