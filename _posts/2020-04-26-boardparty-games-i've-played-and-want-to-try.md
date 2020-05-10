@@ -31,7 +31,6 @@ Board Games:
 * Coup
 * Dutch Blitz
 * Exploding Kittens
-* Jenga
 * Mad Gabs
 * Monopoly
 * Pandemic
@@ -54,6 +53,7 @@ Party Games:
   * Murder Mystery Trivia Party
   * Tee K.O.
   * Survive the Internet
+* Jenga
 * Mafia
 * Psychiatrist
 * Signal
