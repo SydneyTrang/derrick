@@ -10,10 +10,12 @@ Last Updated: May 10th, 2020
 ---
 A list to compile my board/party game experience and what I want to play in the future.
 
+---
 <html>
  	 <body>
-    
       <p style="text-align:center;">What I've Played</p>
+   </body>
+</html>
 
 Board Games:
 * Anomia
@@ -52,8 +54,12 @@ Party Games:
 * Signal
 * Spyfall
 
-
-What I Want to Play
+---
+<html>
+ 	 <body>
+      <p style="text-align:center;">What I Want to Play</p>
+   </body>
+</html>
 
 Board Games:
 * Avalon
@@ -69,6 +75,3 @@ Party Games:
   * Faking It
   * Monster Seeking Monster
 * Mafia
-
-   </body>
-</html>
