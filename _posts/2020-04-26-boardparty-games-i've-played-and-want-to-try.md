@@ -46,7 +46,7 @@ Board Games:
 * Uno
 
 Party Games:
-* JackBox Games
+* Jackbox Games
 
   * Bracketeering
   * Drawful
@@ -85,7 +85,7 @@ Board Games:
 * The Resistance
 
 Party Games:
-* **JackBox Games**
+* **Jackbox Games**
  
   * **Bomb Corp.**
   * **Faking It**
