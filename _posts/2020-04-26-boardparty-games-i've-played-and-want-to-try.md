@@ -18,6 +18,7 @@ Board Games:
 * Anomia
 * Apples to Apples
 * Avalon
+* Battleship
 * Betrayal at House on the Hill
 * Blockus
 * Cards Against Humanity
