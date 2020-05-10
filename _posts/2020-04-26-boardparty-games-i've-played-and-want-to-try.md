@@ -43,7 +43,6 @@ Board Games:
 * Telestrations
 * The Game of Life
 * Ticket to Ride
-* Uno
 
 Party Games:
 * JackBox Games
@@ -54,7 +53,6 @@ Party Games:
   * Murder Mystery Trivia Party
   * Tee K.O.
   * Survive the Internet
-* Jenga
 * Mafia
 * Psychiatrist
 * Signal
@@ -70,7 +68,7 @@ Party Games:
 </html>
 
 Board Games:
-* **Avalon
+* **Avalon**
 * Bang!
 * Clue
 * Coup
@@ -85,8 +83,8 @@ Board Games:
 * The Resistance
 
 Party Games:
-* JackBox Games
+* **JackBox Games**
  
-  * Bomb Corp.
-  * Faking It
+  * **Bomb Corp.**
+  * **Faking It**
   * **Monster Seeking Monster**
