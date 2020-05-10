@@ -70,23 +70,23 @@ Party Games:
 </html>
 
 Board Games:
-* **Avalon**
+* *Avalon*
 * Bang!
 * Clue
 * Coup
-* **Deception: Murder in Hong Kong**
-* **Love Letter**
+* *Deception: Murder in Hong Kong*
+* *Love Letter*
 * Munchkin
 * One Night Ultimate Werewolf
 * Pandemic
 * Red Flags
-* **Salem**
+* *Salem*
 * Secret Hitler
 * The Resistance
 
 Party Games:
-* **Jackbox Games**
+* *Jackbox Games*
  
-  * **Bomb Corp.**
-  * **Faking It**
-  * **Monster Seeking Monster**
+  * *Bomb Corp.*
+  * *Faking It*
+  * *Monster Seeking Monster*
