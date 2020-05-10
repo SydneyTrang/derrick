@@ -14,11 +14,13 @@ Board Games:
 
 Apples to Apples
 Avalon
+Betrayal at House on the Hill
 Blockus
 Cards Against Humanity
 Codenames
 Coup
 Exploding Kittens
+Mad Gabs
 Monopoly
 Pandemic
 One Night Ultimate Werewolf
