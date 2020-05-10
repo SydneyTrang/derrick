@@ -43,7 +43,7 @@ Board Games:
 * Telestrations
 * The Game of Life
 * Ticket to Ride
-* Umo
+* Uno
 
 Party Games:
 * JackBox Games
