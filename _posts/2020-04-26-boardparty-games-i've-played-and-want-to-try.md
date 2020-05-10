@@ -63,7 +63,7 @@ Party Games:
 <html>
  	 <body>
       <p style="text-align:left;">
-       <b>Games I Want to Play</b>
+       <b>Games I Want to Try/Play</b>
       </p>
    </body>
 </html>
@@ -71,10 +71,12 @@ Party Games:
 Board Games:
 * Avalon
 * Bang!
+* Coup
 * Deception: Murder in Hong Kong
 * Love Letter
 * Munchkin
 * One Night Ultimate Werewolf
+* Pandemic
 * Red Flags
 * The Resistance
 
