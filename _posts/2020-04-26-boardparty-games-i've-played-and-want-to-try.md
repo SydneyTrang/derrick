@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Board/Party Games I've Played and Want to Try
+title:  Board/Party Games I've Played and Want to Play
 date:   2020-04-26 14:50:35 +0300
-image:
+image: boardgames
 ---
-A list to compile my board/party game experience and what I want to try in the future.
+A list to compile my board/party game experience and what I want to try/play in the future as of May 10th, 2020.
 
 ---
 
@@ -13,12 +13,15 @@ What I've Played
 Board Games:
 
 Apples to Apples
+Avalon
 Blockus
 Cards Against Humanity
 Codenames
 Coup
 Exploding Kittens
 Monopoly
+Pandemic
+One Night Ultimate Werewolf
 Taboo
 The Game of Life
 Ticket to Ride
@@ -46,6 +49,7 @@ What I Want to Play
 
 Board Games:
 Avalon
+One Night Ultimate Werewolf
 Red Flags
 
 Party Games:
