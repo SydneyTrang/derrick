@@ -26,6 +26,7 @@ Monopoly
 Pandemic
 One Night Ultimate Werewolf
 Taboo
+Telestrations
 The Game of Life
 Ticket to Ride
 Risk
