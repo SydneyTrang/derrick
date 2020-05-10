@@ -27,6 +27,7 @@ Board Games:
 * Betrayal at House on the Hill
 * Blockus
 * Cards Against Humanity
+* Clue
 * Codenames
 * Coup
 * Dutch Blitz
@@ -69,15 +70,17 @@ Party Games:
 </html>
 
 Board Games:
-* Avalon
+* **Avalon
 * Bang!
+* Clue
 * Coup
-* Deception: Murder in Hong Kong
-* Love Letter
+* **Deception: Murder in Hong Kong
+* **Love Letter
 * Munchkin
 * One Night Ultimate Werewolf
 * Pandemic
 * Red Flags
+* **Salem
 * Secret Hitler
 * The Resistance
 
@@ -86,4 +89,4 @@ Party Games:
  
   * Bomb Corp.
   * Faking It
-  * Monster Seeking Monster
+  * **Monster Seeking Monster
