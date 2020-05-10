@@ -13,7 +13,9 @@ A list to compile my board/party game experience and what I want to play in the 
 ---
 <html>
  	 <body>
-      <p style="text-align:center;">What I've Played</p>
+      <p style="text-align:center;">
+       <b>What I've Played</b>
+      </p>
    </body>
 </html>
 
