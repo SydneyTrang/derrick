@@ -11,8 +11,12 @@ Last Updated: May 10th, 2020
 A list to compile my board/party game experience and what I want to play in the future.
 
 ---
-
-**What I've Played**
+<html>
+ 	 <body>
+      <h1>Tutorial</h1>
+      <p style="text-align:center;">What I've Played</p>
+   </body>
+</html>
 
 Board Games:
 * Anomia
