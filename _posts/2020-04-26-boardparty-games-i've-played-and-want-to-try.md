@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Board/Party Games I've Played and Want to Play
-date:   2020-04-26 12:50:35
+date:   2020-04-26 12:50:35 +0300
 image:  /assets/img/boardgames.jpg
 
 ---
