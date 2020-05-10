@@ -21,5 +21,5 @@ I still have a long way to go, but here's some of my island so far!
 <img src="{{site.baseurl}}/assets/img/acnh5.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/acnh4.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/acnh7.jpg" alt="">
-<img src="{{site.baseurl}}/assets/img/acnh1.jpg" alt="">
 <img src="{{site.baseurl}}/assets/img/acnh6.jpg" alt="">
+<img src="{{site.baseurl}}/assets/img/acnh1.jpg" alt="">
