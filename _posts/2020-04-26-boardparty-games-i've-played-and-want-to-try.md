@@ -78,6 +78,7 @@ Board Games:
 * One Night Ultimate Werewolf
 * Pandemic
 * Red Flags
+* Secret Hitler
 * The Resistance
 
 Party Games:
@@ -86,4 +87,3 @@ Party Games:
   * Bomb Corp.
   * Faking It
   * Monster Seeking Monster
-* Mafia
