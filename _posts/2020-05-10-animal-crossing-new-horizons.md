@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Animal Crossing: New Horizons
-date:   2020-05-10 17:02:35 +0300
+date:   2020-05-10 5:02:35 +0300
 image:  /assets/img/acnh.jpg
 
 ---
