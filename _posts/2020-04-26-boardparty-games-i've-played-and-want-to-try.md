@@ -59,7 +59,9 @@ Party Games:
 ---
 <html>
  	 <body>
-      <p style="text-align:center;">What I Want to Play</p>
+      <p style="text-align:center;">
+       <b>What I Want to Play</b>
+      </p>
    </body>
 </html>
 
