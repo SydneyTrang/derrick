@@ -4,8 +4,9 @@ title:  Board/Party Games I've Played and Want to Play
 date:   2020-04-26 14:50:35 +0300
 image:  /assets/img/boardgames.jpg
 ---
-A list to compile my board/party game experience and what I want to try/play in the future as of May 10th, 2020.
+Last Updated: May 10th, 2020
 
+A list to compile my board/party game experience and what I want to try/play in the future as of
 ---
 
 What I've Played
