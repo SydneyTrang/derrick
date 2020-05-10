@@ -74,13 +74,13 @@ Board Games:
 * Bang!
 * Clue
 * Coup
-* **Deception: Murder in Hong Kong
-* **Love Letter
+* **Deception: Murder in Hong Kong**
+* **Love Letter**
 * Munchkin
 * One Night Ultimate Werewolf
 * Pandemic
 * Red Flags
-* **Salem
+* **Salem**
 * Secret Hitler
 * The Resistance
 
@@ -89,4 +89,4 @@ Party Games:
  
   * Bomb Corp.
   * Faking It
-  * **Monster Seeking Monster
+  * **Monster Seeking Monster**
