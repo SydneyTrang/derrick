@@ -72,7 +72,6 @@ Party Games:
 Board Games:
 * Avalon
 * Bang!
-* Clue
 * Coup
 * Deception: Murder in Hong Kong
 * Love Letter
