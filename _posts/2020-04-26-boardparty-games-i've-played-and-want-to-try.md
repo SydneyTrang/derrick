@@ -44,6 +44,7 @@ JackBox Games
   Survive the Internet
 Mafia
 Psychiatrist
+Signal
 Spyfall
 
 ---
