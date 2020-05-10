@@ -36,7 +36,6 @@ Board Games:
 
 
 Party Games:
-
 * JackBox Games
   ** Bracketeering
   ** Drawful
@@ -57,7 +56,6 @@ Board Games:
 * Avalon
 * One Night Ultimate Werewolf
 * Red Flags
-
 Party Games:
 * JackBox Games
   ** Bomb Corp.
