@@ -7,7 +7,7 @@ image:  /assets/img/boardgames.jpg
 ---
 Last Updated: May 10th, 2020.
 
-A list to compile my board/party game experience and what I want to play in the future.
+A list to compile my board/party game experience and what I want to try/play more of in the future.
 
 ---
 <html>
@@ -63,7 +63,7 @@ Party Games:
 <html>
  	 <body>
       <p style="text-align:left;">
-       <b>Games I Want to Try/Play</b>
+       <b>Games I Want to Try/Play More of</b>
       </p>
    </body>
 </html>
