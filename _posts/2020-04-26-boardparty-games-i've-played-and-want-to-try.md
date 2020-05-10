@@ -57,6 +57,7 @@ Party Games:
 
 Board Games:
 * Avalon
+* Bang!
 * One Night Ultimate Werewolf
 * Red Flags
 
