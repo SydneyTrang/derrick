@@ -7,13 +7,14 @@ image:  /assets/img/boardgames.jpg
 ---
 Last Updated: May 10th, 2020
 
-A list to compile my board/party game experience and what I want to try/play in the future as of
+A list to compile my board/party game experience and what I want to play in the future.
 
 ---
 
 **What I've Played**
 
 Board Games:
+* Anomia
 * Apples to Apples
 * Avalon
 * Betrayal at House on the Hill
@@ -34,15 +35,14 @@ Board Games:
 * Scrabble
 * Settlers of Catan
 
-
 Party Games:
 * JackBox Games
-  ** Bracketeering
-  ** Drawful
-  ** Fibbage
-  ** Murder Mystery Trivia Party
-  ** Tee K.O.
-  ** Survive the Internet
+  * Bracketeering
+  * Drawful
+  * Fibbage
+  * Murder Mystery Trivia Party
+  * Tee K.O.
+  * Survive the Internet
 * Mafia
 * Psychiatrist
 * Signal
@@ -56,6 +56,7 @@ Board Games:
 * Avalon
 * One Night Ultimate Werewolf
 * Red Flags
+
 Party Games:
 * JackBox Games
   * Bomb Corp.
