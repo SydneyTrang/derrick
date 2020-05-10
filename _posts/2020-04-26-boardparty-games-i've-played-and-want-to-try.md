@@ -14,7 +14,7 @@ A list to compile my board/party game experience and what I want to play in the 
 <html>
  	 <body>
       <p style="text-align:left;">
-       <b>What I've Played</b>
+       <b>Games I've Played</b>
       </p>
    </body>
 </html>
@@ -29,18 +29,21 @@ Board Games:
 * Cards Against Humanity
 * Codenames
 * Coup
+* Dutch Blitz
 * Exploding Kittens
+* Jenga
 * Mad Gabs
 * Monopoly
 * Pandemic
 * One Night Ultimate Werewolf
+* Risk
+* Scrabble
+* Settlers of Catan
 * Taboo
 * Telestrations
 * The Game of Life
 * Ticket to Ride
-* Risk
-* Scrabble
-* Settlers of Catan
+* Umo
 
 Party Games:
 * JackBox Games
@@ -60,7 +63,7 @@ Party Games:
 <html>
  	 <body>
       <p style="text-align:left;">
-       <b>What I Want to Play</b>
+       <b>Games I Want to Play</b>
       </p>
    </body>
 </html>
@@ -69,8 +72,10 @@ Board Games:
 * Avalon
 * Bang!
 * Deception: Murder in Hong Kong
+* Love Letter
 * One Night Ultimate Werewolf
 * Red Flags
+* The Resistance
 
 Party Games:
 * JackBox Games
