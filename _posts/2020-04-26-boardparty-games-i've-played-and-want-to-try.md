@@ -13,8 +13,7 @@ A list to compile my board/party game experience and what I want to play in the 
 ---
 <html>
  	 <body>
-      <h1>What I've Played</h1>
-      <p style="text-align:center;"></p>
+      <p style="text-align:center;">What I've Played</p>
    </body>
 </html>
 
@@ -58,8 +57,7 @@ Party Games:
 ---
 <html>
  	 <body>
-      <h1>What I Want to Play</h1>
-      <p style="text-align:center;"></p>
+      <p style="text-align:center;">What I Want to Play</p>
    </body>
 </html>
 
