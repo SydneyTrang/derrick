@@ -11,56 +11,57 @@ A list to compile my board/party game experience and what I want to try/play in 
 
 ---
 
-What I've Played
+**What I've Played
 
 Board Games:
 
-Apples to Apples
-Avalon
-Betrayal at House on the Hill
-Blockus
-Cards Against Humanity
-Codenames
-Coup
-Exploding Kittens
-Mad Gabs
-Monopoly
-Pandemic
-One Night Ultimate Werewolf
-Taboo
-Telestrations
-The Game of Life
-Ticket to Ride
-Risk
-Scrabble
-Settlers of Catan
+* Apples to Apples
+* Avalon
+* Betrayal at House on the Hill
+* Blockus
+* Cards Against Humanity
+* Codenames
+* Coup
+* Exploding Kittens
+* Mad Gabs
+* Monopoly
+* Pandemic
+* One Night Ultimate Werewolf
+* Taboo
+* Telestrations
+* The Game of Life
+* Ticket to Ride
+* Risk
+* Scrabble
+* Settlers of Catan
 
 
 Party Games:
 
-JackBox Games
-  Bracketeering
-  Drawful
-  Fibbage
-  Murder Mystery Trivia Party
-  Tee K.O.
-  Survive the Internet
-Mafia
-Psychiatrist
-Signal
-Spyfall
+* JackBox Games
+  ** Bracketeering
+  ** Drawful
+  ** Fibbage
+  ** Murder Mystery Trivia Party
+  ** Tee K.O.
+  ** Survive the Internet
+* Mafia
+* Psychiatrist
+* Signal
+* Spyfall
 
 ---
 
-What I Want to Play
+**What I Want to Play
 
 Board Games:
-Avalon
-One Night Ultimate Werewolf
-Red Flags
+* Avalon
+* One Night Ultimate Werewolf
+* Red Flags
 
 Party Games:
-JackBox Games
-  Bomb Corp.
-  Faking It
-  Monster Seeking Monster
+* JackBox Games
+  ** Bomb Corp.
+  ** Faking It
+  ** Monster Seeking Monster
+* Mafia
