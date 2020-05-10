@@ -12,10 +12,18 @@ What I've Played
 
 Board Games:
 
+Apples to Apples
+Blockus
 Cards Against Humanity
 Codenames
 Coup
+Exploding Kittens
+Monopoly
 Taboo
+The Game of Life
+Ticket to Ride
+Risk
+Scrabble
 Settlers of Catan
 
 
@@ -30,6 +38,7 @@ JackBox Games
   Survive the Internet
 Mafia
 Psychiatrist
+Spyfall
 
 ---
 
