@@ -58,6 +58,7 @@ Party Games:
 Board Games:
 * Avalon
 * Bang!
+* Deception: Murder in Hong Kong
 * One Night Ultimate Werewolf
 * Red Flags
 
