@@ -73,6 +73,7 @@ Board Games:
 * Bang!
 * Deception: Murder in Hong Kong
 * Love Letter
+* Munchkin
 * One Night Ultimate Werewolf
 * Red Flags
 * The Resistance
