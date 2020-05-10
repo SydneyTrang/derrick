@@ -25,7 +25,7 @@ Board Games:
 * Avalon
 * Battleship
 * Betrayal at House on the Hill
-* Blockus
+* Blokus
 * Cards Against Humanity
 * Clue
 * Codenames
@@ -43,6 +43,7 @@ Board Games:
 * Telestrations
 * The Game of Life
 * Ticket to Ride
+* Uno
 
 Party Games:
 * JackBox Games
@@ -53,6 +54,7 @@ Party Games:
   * Murder Mystery Trivia Party
   * Tee K.O.
   * Survive the Internet
+* Jenga
 * Mafia
 * Psychiatrist
 * Signal
