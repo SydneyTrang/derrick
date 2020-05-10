@@ -12,9 +12,8 @@ A list to compile my board/party game experience and what I want to play in the 
 
 <html>
  	 <body>
+    
       <p style="text-align:center;">What I've Played</p>
-   </body>
-</html>
 
 Board Games:
 * Anomia
@@ -53,11 +52,8 @@ Party Games:
 * Signal
 * Spyfall
 
-<html>
- 	 <body>
-      <p style="text-align:center;">What I Want to Play</p>
-   </body>
-</html>
+
+What I Want to Play
 
 Board Games:
 * Avalon
@@ -73,3 +69,6 @@ Party Games:
   * Faking It
   * Monster Seeking Monster
 * Mafia
+
+   </body>
+</html>
