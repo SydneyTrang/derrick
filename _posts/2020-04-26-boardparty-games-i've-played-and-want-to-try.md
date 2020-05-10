@@ -2,7 +2,6 @@
 layout: post
 title:  Board/Party Games I've Played and Want to Play
 date:   2020-04-26 12:50:35 +0300
-last updated: 2020-05-10 01:02:35
 image:  /assets/img/boardgames.jpg
 
 ---
